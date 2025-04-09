@@ -1,12 +1,12 @@
 ![image](https://github.com/user-attachments/assets/6cd41e69-bc87-4474-afcc-a523c97427ac)
 
-USE maven_toys;
+- USE maven_toys;
 -- A preview of all the tables
  SELECT * FROM products;
  SELECT * FROM stores;
  SELECT * FROM sales;
  SELECT * FROM inventory;
- 
+ - .
  ![image](https://github.com/user-attachments/assets/aebc392a-5470-4067-837c-e87998ded6f7)
 
 
